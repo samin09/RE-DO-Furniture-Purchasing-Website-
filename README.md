@@ -1,4 +1,4 @@
-# Web-RE-DO
+# RE-DO
 
 
 •	Project Overview:
